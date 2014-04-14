@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1121.87px" height="845.18px" viewBox="-329.87 -106.054 1121.87 845.18"
+	 enable-background="new -329.87 -106.054 1121.87 845.18" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<ellipse id="SVGID_1_" cx="231.065" cy="316.536" rx="402.564" ry="400.135"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<ellipse clip-path="url(#SVGID_2_)" fill="#ED2190" cx="231.065" cy="316.536" rx="402.564" ry="400.135"/>
+	</g>
+	<g>
+		<defs>
+			<ellipse id="SVGID_3_" cx="231.065" cy="316.536" rx="402.564" ry="400.135"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_4_)">
+			<text transform="matrix(1 0 0 1 -233.5683 370.5056)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="426.4117">ALC</text>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<ellipse id="SVGID_5_" cx="231.065" cy="316.536" rx="402.564" ry="400.135"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_6_)">
+			<text transform="matrix(1 0 0 1 -61.4023 496.0329)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="117.221">Cosmetics</text>
+		</g>
+	</g>
+</g>
+</svg>
