@@ -19,6 +19,7 @@ html {
 	text-size-adjust: 100%;
     
     font-size: 100%;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 img {
@@ -81,3 +82,67 @@ header {
 	margin: 0;
     padding: 1.5rem 0;
     list-style-type: none;
+}
+
+.new { 
+    background-image:url("../images/makeup4.jpg");
+    background-size: 22rem;
+    background-repeat:no-repeat;
+    background-position:top center;
+    overflow:hidden;
+    margin: 1rem 5%;
+    
+}
+
+h1 {
+    margin:5rem 1%;
+    font-size:3rem;
+    text-align:center;
+    background-color:rgba(250 ,14 ,179, .3);
+    color: white;
+}
+
+hr {
+    margin: 1rem 5%;
+}
+
+h2 {
+    margin: 1rem 5%;
+    color: white;
+    font-size:2.5rem;
+    text-align: center;
+    background-color: #FA0EB3;
+}
+    
+p {
+    Margin: .5rem 5% 1rem; 
+    color: black;
+    font-size: 1rem;
+}
+
+.editor {
+    background-image:url("../images/makeup1.jpg");
+    background-size: 22rem;
+    background-repeat:no-repeat;
+    background-position:top center;
+    overflow:hidden;
+    margin: 1rem 5%;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
