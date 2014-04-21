@@ -6,13 +6,13 @@
 	 xml:space="preserve">
 <g>
 	<defs>
-		<circle id="SVGID_1_" cx="58.539" cy="66.756" r="53.111"/>
+		<circle id="SVGID_1_" cx="59.763" cy="63.988" r="53.111"/>
 	</defs>
 	<clipPath id="SVGID_2_">
 		<use xlink:href="#SVGID_1_"  overflow="visible"/>
 	</clipPath>
-	<circle clip-path="url(#SVGID_2_)" fill="#ED2190" cx="58.539" cy="66.756" r="53.111"/>
-	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M97.162,37.446V20.87H75.981c0,0-14.274,3.223-14.274,16.576v14.735H50.656
-		v17.988h10.59v49.699h20.26V70.169h13.862l1.793-17.366H81.652V37.431L97.162,37.446z"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#ED2190" cx="59.763" cy="63.988" r="53.111"/>
+	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M98.386,34.678V18.102H77.205c0,0-14.274,3.223-14.274,16.576v14.735H51.88
+		v17.988h10.59V117.1h20.26V67.401h13.862l1.793-17.366H82.876V34.663L98.386,34.678z"/>
 </g>
 </svg>

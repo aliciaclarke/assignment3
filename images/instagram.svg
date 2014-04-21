@@ -6,31 +6,31 @@
 	 xml:space="preserve">
 <g>
 	<defs>
-		<circle id="SVGID_1_" cx="65.889" cy="64.689" r="52.508"/>
+		<circle id="SVGID_1_" cx="63.988" cy="61.574" r="53.214"/>
 	</defs>
 	<clipPath id="SVGID_2_">
 		<use xlink:href="#SVGID_1_"  overflow="visible"/>
 	</clipPath>
 	
-		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="3.7986" stroke-miterlimit="10" x1="20.383" y1="12.181" x2="20.383" y2="38.57"/>
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="3.8497" stroke-miterlimit="10" x1="17.87" y1="8.359" x2="17.87" y2="35.104"/>
 	
-		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="3.7986" stroke-miterlimit="10" x1="26.609" y1="12.181" x2="26.609" y2="38.57"/>
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="3.8497" stroke-miterlimit="10" x1="24.18" y1="8.359" x2="24.18" y2="35.104"/>
 	
-		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="3.7986" stroke-miterlimit="10" x1="33.056" y1="12.181" x2="33.056" y2="38.57"/>
-	<circle clip-path="url(#SVGID_2_)" fill="#ED2190" cx="65.889" cy="65.118" r="53.106"/>
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="3.8497" stroke-miterlimit="10" x1="30.713" y1="8.359" x2="30.713" y2="35.104"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#ED2190" cx="63.988" cy="62.008" r="53.82"/>
 	
-		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="4.0989" stroke-miterlimit="10" x1="3.262" y1="49.907" x2="133.546" y2="49.907"/>
-	<circle clip-path="url(#SVGID_2_)" fill="#FFFFFF" cx="65.889" cy="65.118" r="31.985"/>
-	<circle clip-path="url(#SVGID_2_)" fill="#ED2190" cx="65.889" cy="65.118" r="25.555"/>
-	<circle clip-path="url(#SVGID_2_)" fill="#FFFFFF" cx="65.889" cy="65.118" r="19.913"/>
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="4.154" stroke-miterlimit="10" x1="0.519" y1="46.593" x2="132.556" y2="46.593"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#FFFFFF" cx="63.988" cy="62.008" r="32.416"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#ED2190" cx="63.988" cy="62.008" r="25.899"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#FFFFFF" cx="63.988" cy="62.008" r="20.181"/>
 	
-		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="4.0649" stroke-miterlimit="10" x1="27.123" y1="11.324" x2="27.123" y2="39.563"/>
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="4.1196" stroke-miterlimit="10" x1="24.7" y1="7.49" x2="24.7" y2="36.11"/>
 	
-		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="4.0649" stroke-miterlimit="10" x1="33.786" y1="11.324" x2="33.786" y2="39.563"/>
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="4.1196" stroke-miterlimit="10" x1="31.453" y1="7.49" x2="31.453" y2="36.11"/>
 	
-		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="4.0649" stroke-miterlimit="10" x1="40.684" y1="11.324" x2="40.684" y2="39.563"/>
-	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M104.867,28.96c0,2.641-2.141,4.782-4.782,4.782h-8.129
-		c-2.641,0-4.782-2.141-4.782-4.782v-7.033c0-2.641,2.141-4.782,4.782-4.782h8.129c2.641,0,4.782,2.141,4.782,4.782V28.96z"/>
-	<circle clip-path="url(#SVGID_2_)" fill="none" cx="65.889" cy="65.118" r="53.106"/>
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="4.1196" stroke-miterlimit="10" x1="38.444" y1="7.49" x2="38.444" y2="36.11"/>
+	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M103.49,25.364c0,2.677-2.17,4.847-4.847,4.847h-8.239
+		c-2.677,0-4.847-2.17-4.847-4.847v-7.128c0-2.677,2.17-4.847,4.847-4.847h8.239c2.677,0,4.847,2.17,4.847,4.847V25.364z"/>
+	<circle clip-path="url(#SVGID_2_)" fill="none" cx="63.988" cy="62.008" r="53.82"/>
 </g>
 </svg>
