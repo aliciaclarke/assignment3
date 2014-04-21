@@ -33,6 +33,12 @@ body {
 	padding: 0;
 }
 
+a,
+a:link,
+a:visited {
+    text-decoration: none;
+}
+
 header {
     background-color: black;
     overflow: hidden;
@@ -101,8 +107,6 @@ header {
     background-position:top center;
     overflow:hidden;
     margin: 1rem 5%;
-    text-decoration: none;
-    
 }
 
 h1 {
