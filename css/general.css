@@ -115,7 +115,7 @@ h1 {
     text-align:center;
     background-color:rgba(250 ,14 ,179, .4);
     color: white;
-    text-decoration: none;
+    font-family: 'Lobster Two', cursive;
 }
 
 hr {
@@ -184,7 +184,7 @@ footer {
 
 .bucket1 figure {
     float: left;
-    width: 20%; /* First and second buckets. 45% x 2 = 90% */ 
+    width: 10%; /* First and second buckets. 45% x 2 = 90% */ 
     margin:1rem 3% 1rem; /* First and second bucket right margins. 10% x 2 = 20%  */
     padding: 0;
 }
