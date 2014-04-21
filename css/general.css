@@ -101,6 +101,7 @@ header {
     background-position:top center;
     overflow:hidden;
     margin: 1rem 5%;
+    text-decoration: none;
     
 }
 
@@ -148,6 +149,7 @@ p {
     width: 50%;
     margin: 0;
     padding: 0;
+    color: #FE2E9A;
 }
 
 footer {
@@ -172,7 +174,7 @@ footer {
 }
 
 .bucket1 {
-    overflow:auto
+    overflow:hidden;
     background-color:black;
 }
 
@@ -191,10 +193,20 @@ footer {
 
 
 .products {
+    background-image:url("../images/makeup1.jpg");
+    background-size: 22rem;
+    background-repeat:no-repeat;
+    background-position:top center;
+    overflow:hidden;
     margin: 1rem 5%;
 }
 
 .company{
+    background-image:url("../images/makeup2.jpg");
+    background-size: 22rem;
+    background-repeat:no-repeat;
+    background-position:top center;
+    overflow:hidden;
     margin: 1rem 5%;
 }
     
